@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-animatedoctoeureka-dev-122653-authRole",
+      "UnauthRoleArn": "arn:aws:iam::694331271591:role/amplify-animatedoctoeureka-dev-122653-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::694331271591:role/amplify-animatedoctoeureka-dev-122653-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-animatedoctoeureka-dev-122653-deployment",
+      "UnauthRoleName": "amplify-animatedoctoeureka-dev-122653-unauthRole",
+      "StackName": "amplify-animatedoctoeureka-dev-122653",
+      "StackId": "arn:aws:cloudformation:us-east-1:694331271591:stack/amplify-animatedoctoeureka-dev-122653/6ef275c0-19ea-11ef-bff1-12d4268f42dd",
+      "AmplifyAppId": "d21n73y7pxncq3"
+    }
+  }
+}
